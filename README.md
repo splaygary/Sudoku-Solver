@@ -1,2 +1,2 @@
 # Sudoku-Solver
-Sudoku Solver by using an algorithm called back tracking to be able to solve a sudoku puzzle
+Sudoku Solver by using an algorithm called backtracking to be able to solve a sudoku puzzle
